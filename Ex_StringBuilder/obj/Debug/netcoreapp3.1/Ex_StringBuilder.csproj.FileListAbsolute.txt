@@ -1,0 +1,13 @@
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\bin\Debug\netcoreapp3.1\Ex_StringBuilder.exe
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\bin\Debug\netcoreapp3.1\Ex_StringBuilder.deps.json
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\bin\Debug\netcoreapp3.1\Ex_StringBuilder.runtimeconfig.json
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\bin\Debug\netcoreapp3.1\Ex_StringBuilder.runtimeconfig.dev.json
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\bin\Debug\netcoreapp3.1\Ex_StringBuilder.dll
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\bin\Debug\netcoreapp3.1\Ex_StringBuilder.pdb
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.csprojAssemblyReference.cache
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.AssemblyInfoInputs.cache
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.AssemblyInfo.cs
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.csproj.CoreCompileInputs.cache
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.dll
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.pdb
+D:\Exercícios\Ex_StringBuilder\Ex_StringBuilder\obj\Debug\netcoreapp3.1\Ex_StringBuilder.genruntimeconfig.cache
